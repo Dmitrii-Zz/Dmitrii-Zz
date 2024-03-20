@@ -15,10 +15,35 @@
     </a>
     </a>
       <a href="https://gitverse.ru/Dimitriy_Z">
-      <img src="https://img.shields.io/badge/Профиль-GITVERSE-white?logo=GITVERSE&logoColor=white" alt="GITVERSE Badge"/>
+      <img src="https://img.shields.io/badge/profile-GITVERSE-white?logo=gitverse" alt="gitverse Badge"/>
     </a>
   </div>  
 </div>
+
+---
+
+### :man_technologist: Обо мне:
+
+Я Java-developer, мне нравится сфера технологий, особенно люблю программировать. Читаю книги о технологиях и использую полученные знания в работе. Веду свою базу знаний. Кроме IT мне интересны психология, как устроены мозг и космос.
+
+Из своих положительных черт могу выделить следующие. Длительное время сохраняю высокую концентрацию при решении задач. Критически мыслю. Беру ответственность за самостоятельно принятые решения. Люблю учиться новому.
+
+---
+
+### :hammer_and_wrench: Стек технологий:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="Hunit" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  
+</div>
+
 
 
 <!--
