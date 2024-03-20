@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FlcDg3NXJjZnJhYmw0ZjEwZXVyZHZjOXppb3NnNmNzeDd2Z2NyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FlcDg3NXJjZnJhYmw0ZjEwZXVyZHZjOXppb3NnNmNzeDd2Z2NyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="300"/>
   <div id="badges">
     <a href="https://t.me/Zolotuhin_Dmitrij">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
