@@ -46,7 +46,7 @@
 
 ### :hammer_and_wrench: Стек технологий:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgresql,docker,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgresql,hibernate,docker,git&theme=light)](https://skillicons.dev)
 
 ---
 
