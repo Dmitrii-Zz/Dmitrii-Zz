@@ -46,16 +46,12 @@
 
 ### :man_shrugging: А что сейчас?
 
-На текущий момент я работаю над собственным проектом - finserver. Это финансовый инструмент для человека, который не боится увидеть куда утекают его деньги :money_with_wings:
+На текущий момент я работаю над собственным проектом - [Finserver](https://github.com/Dmitrii-Zz/finserver_v2/tree/future). Это финансовый инструмент для учёта, анализа и оптимизации личных доходов и расходов.
+
+Кроме того, для личного использования я уже написал рабочую программу Finserver на языке программирования VBA с использованием пользовательских форм. Если вы также увлечены личными финансами, то предлагаю попробовать [моё решение](https://github.com/Dmitrii-Zz/Finserver_version_excel) :notebook:
 
 ---
 
 ### :hammer_and_wrench: Стек технологий:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgresql,hibernate,docker,git&theme=light)](https://skillicons.dev)
-
----
-
-### :fire: Моя статистика:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dmitrii-Zz&theme=darcula&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
