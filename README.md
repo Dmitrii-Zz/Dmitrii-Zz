@@ -4,7 +4,7 @@
     <a href="https://t.me/Zolotuhin_Dmitrij">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D1%85%D0%B8%D0%BD-834493303/">
+    <a href="https://www.linkedin.com/in/dmitrii-zz/">
       <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://habr.com/ru/users/Dmitrii_Zz/">
