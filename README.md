@@ -8,11 +8,11 @@
       <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://habr.com/ru/users/Dmitrii_Zz/">
-      <img src="https://img.shields.io/badge/Habr-gray?logo=Habr&logoColor=white" alt="Habr Badge"/>
+      <img src="https://img.shields.io/badge/Habr-blue?logo=Habr&logoColor=white" alt="Habr Badge"/>
     </a>
     </a>
-      <a href="https://gitverse.ru/Dimitriy_Z">
-      <img src="https://img.shields.io/badge/profile-GITVERSE-white?logo=gitverse" alt="gitverse Badge"/>
+      <a href="https://novosibirsk.hh.ru/resume/d190b9f2ff0cf379110039ed1f394b4f584534">
+      <img src="https://img.shields.io/badge/profile%20hh-red"/>
     </a>
   </div>  
 </div>
